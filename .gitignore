@@ -1,3 +1,6 @@
 .DS_Store
 __tmp
 node_modules
+*.pdf
+*.keynote
+*.zip
